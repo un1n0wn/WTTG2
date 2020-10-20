@@ -3,9 +3,13 @@ this is a multi hacking tool written in python, this is also inspired by the gam
 
 # instructions
 sudo apt install tor
+
 sudo apt install proxychains4
+
 pip3 install -r requirements.txt
+
 chmod +x wttg.py
+
 sudo python3 wttg.py
 
 # buy me a coffee! ;)
