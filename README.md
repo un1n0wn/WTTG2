@@ -17,3 +17,5 @@ bitcoin address: bc1q732dn8hvw4tl2dg2dv2dg9lf7x33l08vhwk2mw
 
 # P.S
 i'm a noobie at coding so this isn't the brightest tool :|
+
+
